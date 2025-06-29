@@ -1,4 +1,3 @@
-# Threads-app-reviews-Sentiment-Analysis-with-Orange-Data-Mining
 # 📊 Sentiment Analysis on Meta's Threads App Reviews
 
 A comprehensive sentiment analysis project examining user perceptions of Meta's Threads application through the analysis of 32,910 user reviews collected from Google Play Store and App Store platforms.
